@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kerolos Emad
+<img src="./Kerolos_banner.png" alt="Kerolos Emad Banner" width="100%">
 
 ## Front-End Developer
 
