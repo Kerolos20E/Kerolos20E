@@ -1,4 +1,4 @@
-<img src="./Kerolos_banner.png" alt="Kerolos Emad Banner" width="100%">
+<img src="./Banner.svg" alt="Kerolos Emad Banner" width="100%">
 
 ## Front-End Developer
 
