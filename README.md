@@ -66,9 +66,6 @@ Passionate **Front-End Developer** focused on building responsive, user-friendly
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerolos20E&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos20E&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kerolos20E&theme=tokyonight&hide_border=true)
 
