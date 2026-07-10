@@ -58,10 +58,10 @@ Passionate **Front-End Developer** focused on building responsive, user-friendly
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| 🌍 **Around The World** | Explore countries by name/region with population, capital, currencies & languages, dark/light mode | React, Vite, Tailwind CSS, React Router, react-select | [View Repo](#) |
-| 👕 **Stride — Clothing Store** | Responsive front-end e-commerce demo with category browsing, cart, quantity updates & live totals | HTML5, CSS3, JavaScript, Bootstrap, SweetAlert2 | [View Repo](#) |
-| 🛠️ **FixHub** | Home maintenance platform connecting customers with technicians — requests, direct chat, ratings & admin panel | React, React Router, Tailwind CSS | [View Repo](#) |
-| 📰 **News-Feed** | Modern news app delivering real-time headlines across multiple categories with a fast, responsive UI | React, News API, Material UI | [View Repo](#) |
+| 🌍 **Around The World** | Explore countries by name/region with population, capital, currencies & languages, dark/light mode | React, Vite, Tailwind CSS, React Router, react-select | [View Repo](https://github.com/Kerolos20E/Around-The-World) |
+| 👕 **Stride — Clothing Store** | Responsive front-end e-commerce demo with category browsing, cart, quantity updates & live totals | HTML5, CSS3, JavaScript, Bootstrap, SweetAlert2 | [View Repo](https://github.com/Kerolos20E/E-Commerce) |
+| 🛠️ **FixHub** | Home maintenance platform connecting customers with technicians — requests, direct chat, ratings & admin panel | React, React Router, Tailwind CSS | [View Repo](https://github.com/Kerolos20E/FIX-HUB) |
+| 📰 **News-Feed** | Modern news app delivering real-time headlines across multiple categories with a fast, responsive UI | React, News API, Material UI | [View Repo](https://github.com/Kerolos20E/News-Feed) |
 
 ---
 
