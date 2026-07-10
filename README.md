@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./Banner.svg" alt="Kerolos Emad Banner" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%9A%80;React+%26+TypeScript+Enthusiast;Building+Modern+Web+Apps)](https://git.io/typing-svg)
@@ -24,18 +23,21 @@ Passionate **Front-End Developer** focused on building responsive, user-friendly
 ## 🚀 Tech Stack
 
 ### Front-End
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### Styling
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,16 +58,15 @@ Passionate **Front-End Developer** focused on building responsive, user-friendly
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| 🛒 **E-Commerce Store** | Modern online store with cart, auth & REST APIs | React, TypeScript, Redux | [View Repo](#) |
-| ✅ **Task Management App** | CRUD app with responsive design | React, TypeScript | [View Repo](#) |
-| 📊 **Admin Dashboard** | Interactive dashboard with charts & analytics | React, Chart.js | [View Repo](#) |
+| 🌍 **Around The World** | Explore countries by name/region with population, capital, currencies & languages, dark/light mode | React, Vite, Tailwind CSS, React Router, react-select | [View Repo](#) |
+| 👕 **Stride — Clothing Store** | Responsive front-end e-commerce demo with category browsing, cart, quantity updates & live totals | HTML5, CSS3, JavaScript, Bootstrap, SweetAlert2 | [View Repo](#) |
+| 🛠️ **FixHub** | Home maintenance platform connecting customers with technicians — requests, direct chat, ratings & admin panel | React, React Router, Tailwind CSS | [View Repo](#) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kerolos20E&theme=tokyonight&hide_border=true)
 
